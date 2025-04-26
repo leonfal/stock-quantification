@@ -1,2 +1,3 @@
-# stock-quantification
-A dashboard for quantitative metrics for stocks
+# Leon's Quantatitive Dashboard
+
+A dashboard for quantitative metrics and charts for an arbitrary portfolio
